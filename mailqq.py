@@ -115,16 +115,6 @@ class c_step4_get_email:
 
 if __name__ == '__main__':
 
-    # @version : 3.4
-
-    # @Author  : robot_lei
-
-    # @Software: PyCharm Community Edition
-
-    # log_path = 'C:\\fakepath\\log.log'
-
-    # logging.basicConfig(filename=log_path)
-
     origin = sys.stdout
     f = open('C:/Users/GUOCHENG/Desktop/log.txt', 'w')
     sys.stdout = f
