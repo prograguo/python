@@ -56,9 +56,9 @@ class c_step4_get_email:
     @staticmethod
     def run_ing():
         # 输入邮件地址, 口令和POP3服务器地址:
-        email_user = '1348234045@qq.com'
+        email_user = '*******@qq.com'
         # 此处密码是授权码,用于登录第三方邮件客户端
-        password = 'abcrvtujyhkkfijd'
+        password = '************'
         pop3_server = 'pop.qq.com'
         # 日期赋值
         day = datetime.date.today()
